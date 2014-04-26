@@ -1,0 +1,13 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo4 -N"C:\Users\Dan\Desktop\Voltmeter with Multi 7Seg\volt2.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Dan\Desktop\Voltmeter with Multi 7Seg\" -SP"I:\Documents\Projects\Pic Tools\Voltmeter with Multi 7Seg\" "volt2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_D.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'I:\Documents\Projects\Pic Tools\Voltmeter with Multi 7Seg'	 
+diagnostics: 0	125	All files Preprocessed in 47 ms	 
+diagnostics: 0	121	Compilation Started	volt2.c
+diagnostics: 189	122	Compiled Successfully	volt2.c
+diagnostics: 0	126	All files Compiled in 156 ms	 
+hint: 0	1140	Used RAM (bytes): 38 (3%)  Free RAM (bytes): 1477 (97%)	Used RAM (bytes): 38 (3%)  Free RAM (bytes): 1477 (97%)
+hint: 0	1140	Used ROM (bytes): 2806 (9%)  Free ROM (bytes): 29962 (91%)	Used ROM (bytes): 2806 (9%)  Free ROM (bytes): 29962 (91%)
+diagnostics: 0	124	Project Linked Successfully	volt2.mcppi
+diagnostics: 0	127	Linked in 514 ms	 
+diagnostics: 0	128	Project 'volt2.mcppi' completed: 889 ms	 
+diagnostics: 0	103	Finished successfully: 19 Feb 2011, 10:23:35	volt2.mcppi
